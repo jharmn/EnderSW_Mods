@@ -3,6 +3,13 @@
 I'm a big fan of the [Huvud toolhead board](https://github.com/bondus/KlipperToolboard) board, and wanted to adapt it to the Voron Stealthburner/Clockwork2 as beta came to a close.
 This was very relevant to my Ender 3 Pro converted to a Voron Switchwire, as it is extremely cramped for space for wiring underneath. The Huvud toolhead board allowed me to eliminate most of the toolhead wiring, both reducing the cable load in the cable chain (more fluid movement allowed) and considerably less wiring underneath.
 
+![Installed render](./images/Huvud_mount_installed.png)
+![CW2 side view render](./images/CW2_mount_side.png)
+![Huvud side view render](./images/Huvud_mount_side.png)
+![Side actual view](./images/side.jpg)
+![Top actual view](./images/top.jpg)
+![Front actual view](./images/front.jpg)
+
 ### Pros:
 
 * LEDs on the Huvud board are very visible
